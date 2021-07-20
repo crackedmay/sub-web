@@ -305,9 +305,9 @@ export default {
                   "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_AdblockPlus.ini"
               },
               {
-                label: "ACL4SSR_Online_NoAuto 无自动测速(与Github同步)",
+                label: "zhazhamay",
                 value:
-                  "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_NoAuto.ini"
+                  "https://raw.githubusercontent.com/crackedmay/zy/main/zhazhaclash.ini"
               },
               {
                 label: "ACL4SSR_Online_NoReject 无广告拦截规则(与Github同步)",
